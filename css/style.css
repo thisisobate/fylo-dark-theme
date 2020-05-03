@@ -273,9 +273,9 @@ input[type='button'] {
   justify-content: space-evenly;
 }
 
-.txt_box > p {
+/* .txt_box > p {
   font-size: 12px;
-}
+} */
 
 /* .notify_box {
   margin-left: 20%;
@@ -685,7 +685,7 @@ ul {
   }
 
   footer {
-    height: 1190px;
+    height: 990px;
     align-items: flex-start;
     width: 100%;
   }
