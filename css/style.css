@@ -273,6 +273,10 @@ input[type='button'] {
   justify-content: space-evenly;
 }
 
+.txt_box > p {
+  font-size: 12px;
+}
+
 /* .notify_box {
   margin-left: 20%;
   margin-right: 20%;
@@ -560,6 +564,14 @@ ul {
     flex-direction: column;
   }
 
+  .btn {
+    text-decoration: none;
+    color: #f4f4f4;
+    padding: 8px 40px;
+    background-color: hsl(176, 68%, 64%);
+    border-radius: 20px;
+  }
+
   .btn2 {
     padding: 12px 45px;
     margin-top: 12px;
@@ -632,6 +644,7 @@ ul {
   .txt_container {
     text-align: center;
     line-height: 30px;
+    margin: 0;
   }
 
   .demo-btn-2 {
