@@ -6,4 +6,4 @@
 
 Thanks for checking out this front-end coding challenge.
 
-Link to [Live](fylo-dark-theme-vert.now.sh)
+Link to [Live](https://fylo-dark-theme-vert.now.sh)
